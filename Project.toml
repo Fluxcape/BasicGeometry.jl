@@ -1,0 +1,15 @@
+name = "BasicGeometry"
+uuid = "f2708657-5a24-48b6-9d46-e279622ed64a"
+version = "0.1.0"
+authors = ["chenyubao <chenyu.bao@outlook.com>"]
+
+[deps]
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+StaticArrays = ">=1.9.19"
+Test = ">=1.11.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
